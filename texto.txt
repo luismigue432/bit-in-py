@@ -1,0 +1,12 @@
+
+Los RATs (Remote Access Trojans) no "consiguen firmas", ya que las firmas son métodos que los antivirus usan para detectar malware, no algo que los RAT utilicen directamente. Sin embargo, los creadores de RATs a veces intentan evadir las firmas de los antivirus mediante varias técnicas:
+
+Ofuscación del código: Se altera el código para hacerlo irreconocible por los motores de detección de firmas de antivirus. Pueden usar técnicas como cifrado, empaquetadores o compresores.
+
+Crypters: Son herramientas que encriptan o modifican el RAT para evitar ser detectado por antivirus. Estos crypters a veces se ofrecen en foros o mercados oscuros y permiten que el RAT pase desapercibido temporalmente.
+
+Modificación constante: Cambiar ligeramente el código del RAT para evitar que coincida con las firmas conocidas por los antivirus. Esto se conoce como polimorfismo o metamorfismo.
+
+Uso de RATs personalizados: Los atacantes a veces crean versiones personalizadas de RATs que no están aún en las bases de datos de firmas de los antivirus.
+
+Es importante recordar que estas técnicas son ilegales y maliciosas. Las empresas de ciberseguridad continuamente mejoran sus herramientas para detectar y bloquear este tipo de actividades.
